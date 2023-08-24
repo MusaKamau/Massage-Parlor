@@ -21,9 +21,11 @@
 body {
     font-family: 'Public Sans', sans-serif;
     font-size: 15px;
-    background-color: #EDF3F8;
+    background-image: url('https://drive.google.com/file/d/16EJWAcVq1nd3y6X_7KnQqePrxZWJGbWE/preview');
+    background-size: cover; /* Adjust the background sizing as needed */
     color: #6c8294;
 }
+
 
 h1,
 h2,
